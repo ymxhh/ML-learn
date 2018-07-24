@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//DecisionTree/cart.py=utf-8
+encoding//DecisionTree/dt1.py=utf-8
+encoding//DecisionTree/tree.py=utf-8
+encoding//DecisionTree/treePlotter.py=utf-8
+encoding//KNN/knn1.py=utf-8
+encoding//KNN/knn2.py=utf-8
+encoding//Linear/linear.py=utf-8
+encoding//Linear/ridge.py=utf-8
+encoding//Linear/stage.py=utf-8
+encoding//Logistic/logistic.py=utf-8
+encoding//NB/naiveBayes.py=utf-8
+encoding/processDataSet.py=utf-8
